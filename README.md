@@ -7,5 +7,5 @@ Step 5 - Download endangered Species welfare zip file and extract the folder,
 Step 6 - copy the extracted endangered species welfare complete folder, 
 Step 7 - check where xampp folder as been located if it is local disk c or in any other Disk, 
 Step 8 - Go to Xampp folder inside xampp folder there is a folder named "htdocs" paste endangered species welfare folder, 
-Step 9 - On Mysql and Apache Module, 
+Step 9 - Turn On Mysql and Apache Module, 
 Step 10 - search http://localhost/endangered%20species%20welfare/ project will Run..
